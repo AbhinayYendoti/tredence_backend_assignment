@@ -31,7 +31,7 @@ Pydantic
 
 Nothing fancy — just the essentials to make the backend work.
 
-## Project Structure (Simplified)
+## Project Structure 
 backend/
 ├── main.py
 ├── database.py
